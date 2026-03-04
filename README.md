@@ -1,2 +1,2 @@
 # Statistics-Python-Codes
-I want to share all my progress of the codes that I am learning to make it clear for me and help me record my progess in a good manner.
+I want to share all my progress of the codes that I am learning to make it clear for me and help me record my progess in a good manner. I planned to commit the codes on daily basis.
